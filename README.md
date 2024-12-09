@@ -1,6 +1,6 @@
 # 24-25-J--071
 ----------IT19246406 J.S.R.Franklin----------
------Rice Quality Analysis Using Image Processing-------------------------------------
+-----Rice Quality Analysis Using Image Processing-------------------------
 Welcome to the Rice Quality Analysis project repository! This project focuses on developing a system for analyzing rice grain quality using image processing and machine learning techniques. The goal is to classify rice grains based on their visual characteristics, identify defects, and ensure high-quality outputs for agricultural stakeholders.
 
 -----------------Features--------------------------------------
