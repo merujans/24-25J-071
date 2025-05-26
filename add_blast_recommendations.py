@@ -45,7 +45,6 @@ def add_recommendations():
             )
         ]
         
-        # Add all recommendations
         for recommendation in recommendations:
             db.session.add(recommendation)
         
