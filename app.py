@@ -24,6 +24,14 @@ LO_THRESHOLD = 0.5
 WEATHER_API_URL = 'https://goweather.xyz/weather/Colombo'
 EXCHANGE_RATE_API_URL = 'https://latest.currency-api.pages.dev/v1/currencies/usd.json'
 
+##class User(UserMixin, db.Model):
+  ##  id = db.Column(db.Integer, primary_key=True)
+    ##username = db.Column(db.String(80), unique=True, nullable=False)
+    ##password_hash = db.Column(db.String(120), nullable=False)
+
+
+
+
 db = SQLAlchemy(app)
 login_manager = LoginManager()
 login_manager.init_app(app)
